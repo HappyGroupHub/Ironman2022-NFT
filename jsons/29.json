@@ -1,0 +1,16 @@
+{
+  "name": "Ironman2022NFT Day30",
+  "image": "ipfs://QmR8zPhsPJftDkhgHEGhMkKE7YuN9hJ12hqGfjHbJvxpG9/29.png",
+  "description": "This NFT collection is created by LD, to commemorate 2022 iThome Ironman Event",
+  "external_url": "https://ithelp.ithome.com.tw/users/20152537/ironman/5764",
+  "attributes": [
+    {
+      "trait_type": "day",
+      "value": "30"
+    },
+    {
+      "trait_type": "creator",
+      "value": "LD"
+    }
+  ]
+}
